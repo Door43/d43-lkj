@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lkj:home|Door43 (lkj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lkj|d43-lkj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lkj/archive/master.zip|d43-lkj.zip]]
+
+**Recent Changes**
+{{changes>ns = lkj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lkj|Ethnologue data]]
+
